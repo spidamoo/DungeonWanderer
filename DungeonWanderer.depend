@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1398422075 source:d:\work\my\dungeonwanderer\main.cpp
+	<iostream>
+	<hge.h>
+	<hgesprite.h>
+	<hgefont.h>
+	<math.h>
+	<windows.h>
+	"tinyxml/tinyxml.h"
+	"resource.h"
+
+1393673394 d:\work\my\dungeonwanderer\hge181\include\hge.h
+	<windows.h>
+
+1393673394 d:\work\my\dungeonwanderer\hge181\include\hgesprite.h
+	"hge.h"
+	"hgerect.h"
+
+1393673394 d:\work\my\dungeonwanderer\hge181\include\hgerect.h
+
+1393677603 source:d:\work\my\dungeonwanderer\hgesprite.cpp
+	<hgesprite.h>
+	<math.h>
+
+1393677680 source:d:\work\my\dungeonwanderer\hgerect.cpp
+	<hgerect.h>
+	<math.h>
+
+1393693140 source:d:\work\my\dungeonwanderer\hgefont.cpp
+	<hgefont.h>
+	<stdlib.h>
+	<stdio.h>
+
+1393673394 d:\work\my\dungeonwanderer\hge181\include\hgefont.h
+	"hge.h"
+	"hgesprite.h"
+
+1393695747 d:\work\my\dungeonwanderer\tinyxml\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1393695747 d:\work\my\dungeonwanderer\tinyxml\tinystr.h
+	<assert.h>
+	<string.h>
+
+1393695747 source:d:\work\my\dungeonwanderer\tinyxml\tinystr.cpp
+	"tinystr.h"
+
+1393695747 source:d:\work\my\dungeonwanderer\tinyxml\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1393695747 source:d:\work\my\dungeonwanderer\tinyxml\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1393695747 source:d:\work\my\dungeonwanderer\tinyxml\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1393765714 source:d:\work\my\dungeonwanderer\resource.rc
+	"resource.h"
+
+1393765203 d:\work\my\dungeonwanderer\resource.h
+

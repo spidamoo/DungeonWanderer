@@ -1,0 +1,6 @@
+#ifndef RESOURCE_RC_INCLUDED
+#define RESOURCE_RC_INCLUDED
+#include "resource.h"
+THETA_ICON ICON "theta.ico"
+
+#endif//RESOURCE_RC_INCLUDED
